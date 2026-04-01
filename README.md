@@ -27,4 +27,9 @@ API endpoints documentation
 Application starting successfully (console output)
 <img width="1090" height="22" alt="Screenshot 2026-03-26 at 7 17 31 PM" src="https://github.com/user-attachments/assets/7ee1b153-e3cc-473e-bd4d-dd43ddfdd2f0" />
 
+GET /api/tasks endpoint working (Postman or browser)
+<img width="842" height="159" alt="Screenshot 2026-03-30 at 2 01 12 PM" src="https://github.com/user-attachments/assets/3591182b-0f5c-4422-8511-e5e1d5de4dc8" />
+
+POST /api/tasks creating a task (show request and response)
+
 
