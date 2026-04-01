@@ -18,7 +18,7 @@ mvnw.cmd spring-boot:run
 
 Wait for the application to start. When you see the message "Started CampusTaskboardApplication" in the terminal, the server is running successfully.
 
-You can now open your browser and go to (http://localhost:8080) to see the API working. You should see an empty array [] if no tasks have been created yet.
+You can now open your browser and go to http://localhost:8080 to see the API working. You should see an empty array [] if no tasks have been created yet.
 
 To test all the endpoints you can use Postman or any API testing tool of your choice.
 
