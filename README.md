@@ -21,3 +21,10 @@ Wait for the application to start. When you see the message "Started CampusTaskb
 You can now open your browser and go to (http://localhost:8080) to see the API working. You should see an empty array [] if no tasks have been created yet.
 
 To test all the endpoints you can use Postman or any API testing tool of your choice.
+
+API endpoints documentation
+
+Application starting successfully (console output)
+<img width="1090" height="22" alt="Screenshot 2026-03-26 at 7 17 31 PM" src="https://github.com/user-attachments/assets/7ee1b153-e3cc-473e-bd4d-dd43ddfdd2f0" />
+
+
